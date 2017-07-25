@@ -1,2 +1,2 @@
-# Python_programs
-Simple_prog
+Battle_ship game
+Find hidden battleship in 4 chances
